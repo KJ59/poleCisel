@@ -1,0 +1,16 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+body {
+	max-width: 50rem;
+	margin-inline: auto;
+	font-family: sans-serif;
+	padding-inline: 1rem;
+}
